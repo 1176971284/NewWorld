@@ -4,7 +4,8 @@ package com.getssr.test;
 import java.util.Random;
 public class GetSSR {
 	public static void main(String[] args){
-      Random ran=new Random();
+      System.out.println("欢迎来到此系统");
+	  Random ran=new Random();
       int i;
       for(i=1;i<=50;i++){
           int x=ran.nextInt(100)+1;
