@@ -4,9 +4,13 @@ package com.getssr.test;
 import java.util.Random;
 public class GetSSR {
 	public static void main(String[] args){
+	  System.out.println("作者:Sans");
+	  System.out.println("B");
       System.out.println("欢迎来到此系统");
 	  Random ran=new Random();
       int i;
+      System.out.println("aaa");
+      System.out.println("bbb");
       for(i=1;i<=50;i++){
           int x=ran.nextInt(100)+1;
           if(x<=50){
