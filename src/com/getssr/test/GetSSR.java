@@ -5,6 +5,7 @@ import java.util.Random;
 public class GetSSR {
 	public static void main(String[] args){
 	  System.out.println("作者:Papyrus");
+	  System.out.println("A");
       System.out.println("欢迎来到此系统");
 	  Random ran=new Random();
       int i;
